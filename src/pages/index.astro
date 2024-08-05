@@ -1,0 +1,81 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Card from '../components/Card.astro';
+---
+
+<Layout title="TikTok Video Downloader - Download TikTok Videos Without Watermark">
+	<main class="container my-5 ">
+
+		<h1 class="display-3 text-center font-weight-bold mb-3">
+			TikTok Video <span class="text-gradient">Downloader</span>
+		</h1>
+		<p class="lead text-center font-weight-bold mb-4">
+			Download TikTok Videos Without Watermarks
+		</p>
+
+		<section class="intro bg-primary text-white p-4 rounded shadow-sm mb-4">
+			<h2>About TikTok Video Downloader</h2>
+			<p>Welcome to TikTok Video Downloader, your ultimate solution for downloading TikTok videos without watermarks. Our service is fast, easy to use, and completely free. Save your favorite TikTok videos in high quality and enjoy them offline or share them with friends.</p>
+			<p>To get started, simply paste the TikTok video URL into the input field and click "Download". Your video will be ready to save in just a few seconds.</p>
+		</section>
+
+		<section class="features bg-primary text-white p-4 rounded shadow-sm mb-4">
+			<h2>Features</h2>
+			<ul class="list-unstyled">
+				<li><strong>Download TikTok videos in HD quality without watermarks.</strong></li>
+				<li><strong>Completely free and easy to use.</strong></li>
+				<li><strong>Fast download speeds.</strong></li>
+				<li><strong>No need to install any software or register an account.</strong></li>
+				<li><strong>Compatible with all devices and browsers.</strong></li>
+			</ul>
+		</section>
+
+		<section class="instructions bg-primary text-white p-4 rounded shadow-sm mb-4">
+			<h2>How to Download TikTok Videos</h2>
+			<ol>
+				<li>Open TikTok and find the video you want to download.</li>
+				<li>Click the "Share" button and select "Copy Link".</li>
+				<li>Paste the copied link into the input field on our website.</li>
+				<li>Click the "Download" button and choose your preferred format and quality.</li>
+				<li>Your video will be ready to save in just a few seconds.</li>
+			</ol>
+		</section>
+
+		<p class="additional-info text-center">
+			For any issues or feedback, please visit our <a href="https://astro.build/chat/" class="text-white">community chat</a>.
+		</p>
+
+		<ul role="list" class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
+			<Card
+				href="https://docs.astro.build/"
+				title="Documentation"
+				body="Learn how Astro works and explore the official API docs."
+			/>
+			<Card
+				href="https://astro.build/integrations/"
+				title="Integrations"
+				body="Supercharge your project with new frameworks and libraries."
+			/>
+			<Card
+				href="https://astro.build/themes/"
+				title="Themes"
+				body="Explore a galaxy of community-built starter themes."
+			/>
+			<Card
+				href="https://astro.build/chat/"
+				title="Community"
+				body="Come say hi to our amazing Discord community. ❤️"
+			/>
+		</ul>
+	</main>
+
+	<footer class="bg-dark text-white text-center py-4">
+		<div class="container">
+			<p class="mb-0">© 2024 TikTok Video Downloader. All rights reserved.</p>
+			<p class="mb-0">
+				<a href="/privacy-policy" class="text-white">Privacy Policy</a> |
+				<a href="/terms-of-service" class="text-white">Terms of Service</a>
+			</p>
+		</div>
+	</footer>
+</Layout>
