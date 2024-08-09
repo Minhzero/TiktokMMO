@@ -1,0 +1,38 @@
+{
+  "title": "TikTok Video Downloader - Download TikTok Videos Without Watermark",
+  "hero": {
+    "heading": "TikTok Video Downloader",
+    "subheading": "Download TikTok Videos Without Watermarks",
+    "form": {
+      "placeholder": "Paste TikTok video link here",
+      "button_paste": "Paste",
+      "button_download": "Download"
+    }
+  },
+  "about": {
+    "heading": "About TikTok Video Downloader",
+    "paragraph_1": "Welcome to TikTok Video Downloader, your ultimate solution for downloading TikTok videos without watermarks. Our service is fast, easy to use, and completely free. Save your favorite TikTok videos in high quality and enjoy them offline or share them with friends.",
+    "paragraph_2": "To get started, simply paste the TikTok video URL into the input field and click 'Download'. Your video will be ready to save in just a few seconds."
+  },
+  "features": {
+    "heading": "Features",
+    "feature_1": "Download TikTok videos in HD quality without watermarks.",
+    "feature_2": "Completely free and easy to use.",
+    "feature_3": "Fast download speeds.",
+    "feature_4": "No need to install any software or register an account.",
+    "feature_5": "Compatible with all devices and browsers."
+  },
+  "instructions": {
+    "heading": "How to Download TikTok Videos",
+    "step_1": "Open TikTok and find the video you want to download.",
+    "step_2": "Click the 'Share' button and select 'Copy Link'.",
+    "step_3": "Paste the copied link into the input field on our website.",
+    "step_4": "Click the 'Download' button and choose your preferred format and quality.",
+    "step_5": "Your video will be ready to save in just a few seconds."
+  },
+  "footer": {
+    "copyright": "© 2024 TikTok Video Downloader. All rights reserved.",
+    "privacy_policy": "Privacy Policy",
+    "terms_of_service": "Terms of Service"
+  }
+}

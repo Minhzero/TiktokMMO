@@ -1,0 +1,38 @@
+{
+  "title": "Baixador de Vídeos TikTok - Baixe Vídeos TikTok Sem Marca D'água",
+  "hero": {
+    "heading": "Baixador de Vídeos TikTok",
+    "subheading": "Baixe Vídeos TikTok Sem Marca D'água",
+    "form": {
+      "placeholder": "Cole o link do vídeo TikTok aqui",
+      "button_paste": "Colar",
+      "button_download": "Baixar"
+    }
+  },
+  "about": {
+    "heading": "Sobre o Baixador de Vídeos TikTok",
+    "paragraph_1": "Bem-vindo ao Baixador de Vídeos TikTok, sua solução definitiva para baixar vídeos TikTok sem marca d'água. Nosso serviço é rápido, fácil de usar e totalmente gratuito. Salve seus vídeos TikTok favoritos em alta qualidade e aproveite-os offline ou compartilhe com amigos.",
+    "paragraph_2": "Para começar, basta colar a URL do vídeo TikTok no campo de entrada e clicar em 'Baixar'. Seu vídeo estará pronto para ser salvo em poucos segundos."
+  },
+  "features": {
+    "heading": "Recursos",
+    "feature_1": "Baixe vídeos TikTok em qualidade HD sem marca d'água.",
+    "feature_2": "Totalmente gratuito e fácil de usar.",
+    "feature_3": "Velocidades de download rápidas.",
+    "feature_4": "Sem necessidade de instalar software ou registrar uma conta.",
+    "feature_5": "Compatível com todos os dispositivos e navegadores."
+  },
+  "instructions": {
+    "heading": "Como Baixar Vídeos TikTok",
+    "step_1": "Abra o TikTok e encontre o vídeo que deseja baixar.",
+    "step_2": "Clique no botão 'Compartilhar' e selecione 'Copiar Link'.",
+    "step_3": "Cole o link copiado no campo de entrada em nosso site.",
+    "step_4": "Clique no botão 'Baixar' e escolha o formato e qualidade desejados.",
+    "step_5": "Seu vídeo estará pronto para ser salvo em poucos segundos."
+  },
+  "footer": {
+    "copyright": "© 2024 Baixador de Vídeos TikTok. Todos os direitos reservados.",
+    "privacy_policy": "Política de Privacidade",
+    "terms_of_service": "Termos de Serviço"
+  }
+}

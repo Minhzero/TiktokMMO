@@ -1,0 +1,38 @@
+{
+  "title": "Trình Tải Video TikTok - Tải Video TikTok Không Có Watermark",
+  "hero": {
+    "heading": "Trình Tải Video TikTok",
+    "subheading": "Tải Video TikTok Không Có Watermark",
+    "form": {
+      "placeholder": "Dán liên kết video TikTok vào đây",
+      "button_paste": "Dán",
+      "button_download": "Tải xuống"
+    }
+  },
+  "about": {
+    "heading": "Giới thiệu về Trình Tải Video TikTok",
+    "paragraph_1": "Chào mừng đến với Trình Tải Video TikTok, giải pháp tối ưu để tải video TikTok không có watermark. Dịch vụ của chúng tôi nhanh chóng, dễ sử dụng và hoàn toàn miễn phí. Lưu các video TikTok yêu thích của bạn với chất lượng cao và thưởng thức chúng khi không có kết nối mạng hoặc chia sẻ với bạn bè.",
+    "paragraph_2": "Để bắt đầu, chỉ cần dán URL video TikTok vào ô nhập liệu và nhấn 'Tải xuống'. Video của bạn sẽ sẵn sàng để lưu chỉ trong vài giây."
+  },
+  "features": {
+    "heading": "Tính năng",
+    "feature_1": "Tải video TikTok với chất lượng HD mà không có watermark.",
+    "feature_2": "Hoàn toàn miễn phí và dễ sử dụng.",
+    "feature_3": "Tốc độ tải nhanh.",
+    "feature_4": "Không cần cài đặt phần mềm hoặc đăng ký tài khoản.",
+    "feature_5": "Tương thích với tất cả các thiết bị và trình duyệt."
+  },
+  "instructions": {
+    "heading": "Cách tải video TikTok",
+    "step_1": "Mở TikTok và tìm video bạn muốn tải.",
+    "step_2": "Nhấn nút 'Chia sẻ' và chọn 'Sao chép liên kết'.",
+    "step_3": "Dán liên kết đã sao chép vào ô nhập liệu trên trang web của chúng tôi.",
+    "step_4": "Nhấn nút 'Tải xuống' và chọn định dạng và chất lượng bạn mong muốn.",
+    "step_5": "Video của bạn sẽ sẵn sàng để lưu chỉ trong vài giây."
+  },
+  "footer": {
+    "copyright": "© 2024 Trình Tải Video TikTok. Bản quyền thuộc về chúng tôi.",
+    "privacy_policy": "Chính Sách Bảo Mật",
+    "terms_of_service": "Điều Khoản Dịch Vụ"
+  }
+}

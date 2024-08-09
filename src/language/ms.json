@@ -1,0 +1,38 @@
+{
+  "title": "Pemuat Turun Video TikTok - Muat Turun Video TikTok Tanpa Watermark",
+  "hero": {
+    "heading": "Pemuat Turun Video TikTok",
+    "subheading": "Muat Turun Video TikTok Tanpa Watermark",
+    "form": {
+      "placeholder": "Tampal pautan video TikTok di sini",
+      "button_paste": "Tampal",
+      "button_download": "Muat Turun"
+    }
+  },
+  "about": {
+    "heading": "Tentang Pemuat Turun Video TikTok",
+    "paragraph_1": "Selamat datang ke Pemuat Turun Video TikTok, penyelesaian utama anda untuk memuat turun video TikTok tanpa watermark. Perkhidmatan kami pantas, mudah digunakan, dan sepenuhnya percuma. Simpan video TikTok kegemaran anda dalam kualiti tinggi dan nikmatinya tanpa talian atau kongsi dengan rakan-rakan.",
+    "paragraph_2": "Untuk mula, hanya tampal URL video TikTok ke dalam medan input dan klik 'Muat Turun'. Video anda akan sedia untuk disimpan dalam beberapa saat."
+  },
+  "features": {
+    "heading": "Ciri-ciri",
+    "feature_1": "Muat turun video TikTok dalam kualiti HD tanpa watermark.",
+    "feature_2": "Sepenuhnya percuma dan mudah digunakan.",
+    "feature_3": "Kelajuan muat turun yang pantas.",
+    "feature_4": "Tiada keperluan untuk memasang perisian atau mendaftar akaun.",
+    "feature_5": "Serasi dengan semua peranti dan pelayar."
+  },
+  "instructions": {
+    "heading": "Cara Memuat Turun Video TikTok",
+    "step_1": "Buka TikTok dan cari video yang anda ingin muat turun.",
+    "step_2": "Klik butang 'Kongsi' dan pilih 'Salin Pautan'.",
+    "step_3": "Tampal pautan yang telah disalin ke dalam medan input di laman web kami.",
+    "step_4": "Klik butang 'Muat Turun' dan pilih format serta kualiti yang anda kehendaki.",
+    "step_5": "Video anda akan sedia untuk disimpan dalam beberapa saat."
+  },
+  "footer": {
+    "copyright": "© 2024 Pemuat Turun Video TikTok. Semua hak cipta terpelihara.",
+    "privacy_policy": "Dasar Privasi",
+    "terms_of_service": "Terma Perkhidmatan"
+  }
+}

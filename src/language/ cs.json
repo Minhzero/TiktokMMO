@@ -1,0 +1,38 @@
+{
+  "title": "TikTok Stahovač Videí - Stáhnout TikTok Videá Bez Vodoznaku",
+  "hero": {
+    "heading": "TikTok Stahovač Videí",
+    "subheading": "Stáhnout TikTok Videá Bez Vodoznaku",
+    "form": {
+      "placeholder": "Sem vložte odkaz na video TikTok",
+      "button_paste": "Vložit",
+      "button_download": "Stáhnout"
+    }
+  },
+  "about": {
+    "heading": "O TikTok Stahovači Videí",
+    "paragraph_1": "Vítejte u TikTok Stahovače Videí, nejlepšího řešení pro stahování TikTok videí bez vodoznaku. Naše služba je rychlá, snadno použitelná a zcela zdarma. Uložte si svá oblíbená TikTok videa v vysoké kvalitě a užívejte si je offline nebo je sdílejte s přáteli.",
+    "paragraph_2": "Chcete-li začít, jednoduše vložte URL videa TikTok do vstupního pole a klikněte na 'Stáhnout'. Vaše video bude připraveno k uložení během několika sekund."
+  },
+  "features": {
+    "heading": "Funkce",
+    "feature_1": "Stahujte TikTok videa v HD kvalitě bez vodoznaku.",
+    "feature_2": "Úplně zdarma a snadné použití.",
+    "feature_3": "Rychlé rychlosti stahování.",
+    "feature_4": "Žádná potřeba instalace softwaru nebo registrace účtu.",
+    "feature_5": "Kompatibilní se všemi zařízeními a prohlížeči."
+  },
+  "instructions": {
+    "heading": "Jak Stáhnout TikTok Videá",
+    "step_1": "Otevřete TikTok a najděte video, které chcete stáhnout.",
+    "step_2": "Klikněte na tlačítko 'Sdílet' a vyberte 'Kopírovat odkaz'.",
+    "step_3": "Vložte zkopírovaný odkaz do vstupního pole na našem webu.",
+    "step_4": "Klikněte na tlačítko 'Stáhnout' a vyberte preferovaný formát a kvalitu.",
+    "step_5": "Vaše video bude připraveno k uložení během několika sekund."
+  },
+  "footer": {
+    "copyright": "© 2024 TikTok Stahovač Videí. Všechna práva vyhrazena.",
+    "privacy_policy": "Zásady ochrany osobních údajů",
+    "terms_of_service": "Podmínky služby"
+  }
+}

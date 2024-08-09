@@ -1,0 +1,38 @@
+{
+  "title": "TikTok 비디오 다운로더 - 워터마크 없이 TikTok 비디오 다운로드",
+  "hero": {
+    "heading": "TikTok 비디오 다운로더",
+    "subheading": "워터마크 없이 TikTok 비디오 다운로드",
+    "form": {
+      "placeholder": "여기에 TikTok 비디오 링크를 붙여넣기",
+      "button_paste": "붙여넣기",
+      "button_download": "다운로드"
+    }
+  },
+  "about": {
+    "heading": "TikTok 비디오 다운로더 소개",
+    "paragraph_1": "TikTok 비디오 다운로더에 오신 것을 환영합니다. 워터마크 없이 TikTok 비디오를 다운로드할 수 있는 최고의 솔루션입니다. 우리의 서비스는 빠르고 사용하기 쉽고 완전히 무료입니다. 좋아하는 TikTok 비디오를 고화질로 저장하고 오프라인으로 즐기거나 친구들과 공유하세요.",
+    "paragraph_2": "시작하려면 TikTok 비디오 URL을 입력 필드에 붙여넣고 '다운로드'를 클릭하세요. 비디오는 몇 초 안에 저장할 수 있게 됩니다."
+  },
+  "features": {
+    "heading": "기능",
+    "feature_1": "워터마크 없이 HD 품질의 TikTok 비디오 다운로드.",
+    "feature_2": "완전히 무료이며 사용하기 쉽습니다.",
+    "feature_3": "빠른 다운로드 속도.",
+    "feature_4": "소프트웨어를 설치하거나 계정을 등록할 필요가 없습니다.",
+    "feature_5": "모든 장치와 브라우저와 호환됩니다."
+  },
+  "instructions": {
+    "heading": "TikTok 비디오 다운로드 방법",
+    "step_1": "TikTok을 열고 다운로드할 비디오를 찾습니다.",
+    "step_2": "‘공유’ 버튼을 클릭하고 ‘링크 복사’를 선택합니다.",
+    "step_3": "복사한 링크를 웹사이트의 입력 필드에 붙여넣습니다.",
+    "step_4": "‘다운로드’ 버튼을 클릭하고 원하는 포맷과 품질을 선택합니다.",
+    "step_5": "비디오는 몇 초 안에 저장할 수 있게 됩니다."
+  },
+  "footer": {
+    "copyright": "© 2024 TikTok 비디오 다운로더. 모든 권리 보유.",
+    "privacy_policy": "개인정보 처리방침",
+    "terms_of_service": "이용 약관"
+  }
+}

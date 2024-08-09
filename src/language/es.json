@@ -1,0 +1,38 @@
+{
+  "title": "Descargador de Videos TikTok - Descarga Videos TikTok Sin Marca de Agua",
+  "hero": {
+    "heading": "Descargador de Videos TikTok",
+    "subheading": "Descarga Videos TikTok Sin Marca de Agua",
+    "form": {
+      "placeholder": "Pega el enlace del video de TikTok aquí",
+      "button_paste": "Pegar",
+      "button_download": "Descargar"
+    }
+  },
+  "about": {
+    "heading": "Acerca del Descargador de Videos TikTok",
+    "paragraph_1": "Bienvenido al Descargador de Videos TikTok, tu solución definitiva para descargar videos de TikTok sin marcas de agua. Nuestro servicio es rápido, fácil de usar y completamente gratuito. Guarda tus videos favoritos de TikTok en alta calidad y disfrútalos sin conexión o compártelos con amigos.",
+    "paragraph_2": "Para comenzar, simplemente pega la URL del video de TikTok en el campo de entrada y haz clic en 'Descargar'. Tu video estará listo para guardarse en solo unos segundos."
+  },
+  "features": {
+    "heading": "Características",
+    "feature_1": "Descarga videos de TikTok en calidad HD sin marcas de agua.",
+    "feature_2": "Totalmente gratis y fácil de usar.",
+    "feature_3": "Velocidades de descarga rápidas.",
+    "feature_4": "No es necesario instalar software ni registrar una cuenta.",
+    "feature_5": "Compatible con todos los dispositivos y navegadores."
+  },
+  "instructions": {
+    "heading": "Cómo Descargar Videos de TikTok",
+    "step_1": "Abre TikTok y encuentra el video que quieres descargar.",
+    "step_2": "Haz clic en el botón 'Compartir' y selecciona 'Copiar enlace'.",
+    "step_3": "Pega el enlace copiado en el campo de entrada en nuestro sitio web.",
+    "step_4": "Haz clic en el botón 'Descargar' y elige el formato y la calidad deseados.",
+    "step_5": "Tu video estará listo para guardarse en solo unos segundos."
+  },
+  "footer": {
+    "copyright": "© 2024 Descargador de Videos TikTok. Todos los derechos reservados.",
+    "privacy_policy": "Política de Privacidad",
+    "terms_of_service": "Términos de Servicio"
+  }
+}

@@ -1,80 +1,112 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Card from '../components/Card.astro';
+import translations from '../language/en.json';
 ---
 
-<Layout title="TikTok Video Downloader - Download TikTok Videos Without Watermark">
-	<main class="container my-5 ">
+<Layout title={translations.title}>
+	<!-- Header with language selection -->
+	<header class="bg-dark text-white">
+		<div class="container">
+			<div class="d-flex justify-content-between align-items-center py-2">
+				<!-- Brand Name -->
+				<a class="navbar-brand text-white" href="/en">{translations.hero.heading}</a>
+				<!-- Language Dropdown -->
+				<div class="dropdown">
+					<button class="btn btn-secondary dropdown-toggle" type="button" id="languageDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+						Language
+					</button>
+					<ul class="dropdown-menu" aria-labelledby="languageDropdown">
+						<li><a class="dropdown-item" href="/ar">🇦🇪 Arabic (Tiếng Ả Rập)</a></li>
+						<li><a class="dropdown-item" href="/bn">🇧🇩 Bengali (Tiếng Bengal)</a></li>
+						<li><a class="dropdown-item" href="/de">🇩🇪 German (Tiếng Đức)</a></li>
+						<li><a class="dropdown-item" href="/en">🇬🇧 English (Tiếng Anh)</a></li>
+						<li><a class="dropdown-item" href="/es">🇪🇸 Spanish (Tiếng Tây Ban Nha)</a></li>
+						<li><a class="dropdown-item" href="/fr">🇫🇷 French (Tiếng Pháp)</a></li>
+						<li><a class="dropdown-item" href="/gu">🇮🇳 Gujarati (Tiếng Gujarat)</a></li>
+						<li><a class="dropdown-item" href="/he">🇮🇱 Hebrew (Tiếng Do Thái)</a></li>
+						<li><a class="dropdown-item" href="/hi">🇮🇳 Hindi (Tiếng Hindi)</a></li>
+						<li><a class="dropdown-item" href="/id">🇮🇩 Indonesian (Tiếng Indonesia)</a></li>
+						<li><a class="dropdown-item" href="/it">🇮🇹 Italian (Tiếng Ý)</a></li>
+						<li><a class="dropdown-item" href="/ja">🇯🇵 Japanese (Tiếng Nhật)</a></li>
+						<li><a class="dropdown-item" href="/jv">🇮🇩 Javanese (Tiếng Java)</a></li>
+						<li><a class="dropdown-item" href="/ko">🇰🇷 Korean (Tiếng Hàn Quốc)</a></li>
+						<li><a class="dropdown-item" href="/ms">🇲🇾 Malay (Tiếng Mã Lai)</a></li>
+						<li><a class="dropdown-item" href="/nl">🇳🇱 Dutch (Tiếng Hà Lan)</a></li>
+						<li><a class="dropdown-item" href="/pa">🇮🇳 Punjabi (Tiếng Punjab)</a></li>
+						<li><a class="dropdown-item" href="/pl">🇵🇱 Polish (Tiếng Ba Lan)</a></li>
+						<li><a class="dropdown-item" href="/ru">🇷🇺 Russian (Tiếng Nga)</a></li>
+						<li><a class="dropdown-item" href="/pt">🇵🇹 Portuguese (Tiếng Bồ Đào Nha)</a></li>
+						<li><a class="dropdown-item" href="/sv">🇸🇪 Swedish (Tiếng Thụy Điển)</a></li>
+						<li><a class="dropdown-item" href="/ta">🇮🇳 Tamil (Tiếng Tamil)</a></li>
+						<li><a class="dropdown-item" href="/th">🇹🇭 Thai (Tiếng Thái)</a></li>
+						<li><a class="dropdown-item" href="/tr">🇹🇷 Turkish (Tiếng Thổ Nhĩ Kỳ)</a></li>
+						<li><a class="dropdown-item" href="/ur">🇵🇰 Urdu (Tiếng Urdu)</a></li>
+						<li><a class="dropdown-item" href="/vi">🇻🇳 Vietnamese (Tiếng Việt)</a></li>
+						<li><a class="dropdown-item" href="/zh">🇨🇳 Mandarin Chinese (Tiếng Trung Quốc)</a></li>
+					</ul>
 
-		<h1 class="display-3 text-center font-weight-bold mb-3">
-			TikTok Video <span class="text-gradient">Downloader</span>
-		</h1>
-		<p class="lead text-center font-weight-bold mb-4">
-			Download TikTok Videos Without Watermarks
-		</p>
+				</div>
+			</div>
+		</div>
+	</header>
+
+	<main class="container my-5 ">
+		<section id="hero" class="containerTitle title bg-primary text-white p-4 rounded shadow-sm mb-4">
+			<div class="container w-100">
+				<h1 class="title-1 text-center">
+					{translations.hero.heading}
+				</h1>
+				<p class="lead text-center font-weight-bold mb-4">
+					{translations.hero.subheading}
+				</p>
+				<!-- Input Form -->
+				<form action="download" class="form" name="formurl" method="POST" enctype="application/x-www-form-urlencoded">
+					<div class="input-group mb-3">
+						<input type="text" class="form-control" name="tiktokLink" id="tiktokLink" placeholder={translations.hero.form.placeholder} required aria-label="TikTok video link" aria-describedby="button-download">
+						<button class="btn btn-secondary" type="button" id="button-paste">{translations.hero.form.button_paste}</button>
+						<button class="btn btn-success" type="submit" id="button-download">{translations.hero.form.button_download}</button>
+					</div>
+				</form>
+			</div>
+		</section>
 
 		<section class="intro bg-primary text-white p-4 rounded shadow-sm mb-4">
-			<h2>About TikTok Video Downloader</h2>
-			<p>Welcome to TikTok Video Downloader, your ultimate solution for downloading TikTok videos without watermarks. Our service is fast, easy to use, and completely free. Save your favorite TikTok videos in high quality and enjoy them offline or share them with friends.</p>
-			<p>To get started, simply paste the TikTok video URL into the input field and click "Download". Your video will be ready to save in just a few seconds.</p>
+			<h2>{translations.about.heading}</h2>
+			<p>{translations.about.paragraph_1}</p>
+			<p>{translations.about.paragraph_2}</p>
 		</section>
 
 		<section class="features bg-primary text-white p-4 rounded shadow-sm mb-4">
-			<h2>Features</h2>
+			<h2>{translations.features.heading}</h2>
 			<ul class="list-unstyled">
-				<li><strong>Download TikTok videos in HD quality without watermarks.</strong></li>
-				<li><strong>Completely free and easy to use.</strong></li>
-				<li><strong>Fast download speeds.</strong></li>
-				<li><strong>No need to install any software or register an account.</strong></li>
-				<li><strong>Compatible with all devices and browsers.</strong></li>
+				<li><strong>{translations.features.feature_1}</strong></li>
+				<li><strong>{translations.features.feature_2}</strong></li>
+				<li><strong>{translations.features.feature_3}</strong></li>
+				<li><strong>{translations.features.feature_4}</strong></li>
+				<li><strong>{translations.features.feature_5}</strong></li>
 			</ul>
 		</section>
 
 		<section class="instructions bg-primary text-white p-4 rounded shadow-sm mb-4">
-			<h2>How to Download TikTok Videos</h2>
+			<h2>{translations.instructions.heading}</h2>
 			<ol>
-				<li>Open TikTok and find the video you want to download.</li>
-				<li>Click the "Share" button and select "Copy Link".</li>
-				<li>Paste the copied link into the input field on our website.</li>
-				<li>Click the "Download" button and choose your preferred format and quality.</li>
-				<li>Your video will be ready to save in just a few seconds.</li>
+				<li>{translations.instructions.step_1}</li>
+				<li>{translations.instructions.step_2}</li>
+				<li>{translations.instructions.step_3}</li>
+				<li>{translations.instructions.step_4}</li>
+				<li>{translations.instructions.step_5}</li>
 			</ol>
 		</section>
 
-		<p class="additional-info text-center">
-			For any issues or feedback, please visit our <a href="https://astro.build/chat/" class="text-white">community chat</a>.
-		</p>
-
-		<ul role="list" class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
-			<Card
-				href="https://docs.astro.build/"
-				title="Documentation"
-				body="Learn how Astro works and explore the official API docs."
-			/>
-			<Card
-				href="https://astro.build/integrations/"
-				title="Integrations"
-				body="Supercharge your project with new frameworks and libraries."
-			/>
-			<Card
-				href="https://astro.build/themes/"
-				title="Themes"
-				body="Explore a galaxy of community-built starter themes."
-			/>
-			<Card
-				href="https://astro.build/chat/"
-				title="Community"
-				body="Come say hi to our amazing Discord community. ❤️"
-			/>
-		</ul>
 	</main>
 
 	<footer class="bg-dark text-white text-center py-4">
 		<div class="container">
-			<p class="mb-0">© 2024 TikTok Video Downloader. All rights reserved.</p>
+			<p class="mb-0">{translations.footer.copyright}</p>
 			<p class="mb-0">
-				<a href="/privacy-policy" class="text-white">Privacy Policy</a> |
-				<a href="/terms-of-service" class="text-white">Terms of Service</a>
+				<a href="/privacy-policy" class="text-white">{translations.footer.privacy_policy}</a> |
+				<a href="/terms-of-service" class="text-white">{translations.footer.terms_of_service}</a>
 			</p>
 		</div>
 	</footer>

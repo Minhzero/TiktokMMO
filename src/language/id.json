@@ -1,0 +1,38 @@
+{
+  "title": "Pengunduh Video TikTok - Unduh Video TikTok Tanpa Watermark",
+  "hero": {
+    "heading": "Pengunduh Video TikTok",
+    "subheading": "Unduh Video TikTok Tanpa Watermark",
+    "form": {
+      "placeholder": "Tempelkan tautan video TikTok di sini",
+      "button_paste": "Tempel",
+      "button_download": "Unduh"
+    }
+  },
+  "about": {
+    "heading": "Tentang Pengunduh Video TikTok",
+    "paragraph_1": "Selamat datang di Pengunduh Video TikTok, solusi utama Anda untuk mengunduh video TikTok tanpa watermark. Layanan kami cepat, mudah digunakan, dan sepenuhnya gratis. Simpan video TikTok favorit Anda dengan kualitas tinggi dan nikmati secara offline atau bagikan dengan teman-teman.",
+    "paragraph_2": "Untuk memulai, cukup tempelkan URL video TikTok ke kolom input dan klik 'Unduh'. Video Anda akan siap disimpan hanya dalam beberapa detik."
+  },
+  "features": {
+    "heading": "Fitur",
+    "feature_1": "Unduh video TikTok dalam kualitas HD tanpa watermark.",
+    "feature_2": "Sepenuhnya gratis dan mudah digunakan.",
+    "feature_3": "Kecepatan unduh yang cepat.",
+    "feature_4": "Tidak perlu menginstal perangkat lunak atau mendaftar akun.",
+    "feature_5": "Kompatibel dengan semua perangkat dan browser."
+  },
+  "instructions": {
+    "heading": "Cara Mengunduh Video TikTok",
+    "step_1": "Buka TikTok dan temukan video yang ingin Anda unduh.",
+    "step_2": "Klik tombol 'Bagikan' dan pilih 'Salin Tautan'.",
+    "step_3": "Tempelkan tautan yang telah disalin ke kolom input di situs web kami.",
+    "step_4": "Klik tombol 'Unduh' dan pilih format serta kualitas yang Anda inginkan.",
+    "step_5": "Video Anda akan siap disimpan hanya dalam beberapa detik."
+  },
+  "footer": {
+    "copyright": "© 2024 Pengunduh Video TikTok. Semua hak cipta dilindungi.",
+    "privacy_policy": "Kebijakan Privasi",
+    "terms_of_service": "Syarat Layanan"
+  }
+}

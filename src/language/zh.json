@@ -1,0 +1,38 @@
+{
+  "title": "TikTok视频下载器 - 下载无水印TikTok视频",
+  "hero": {
+    "heading": "TikTok视频下载器",
+    "subheading": "下载无水印TikTok视频",
+    "form": {
+      "placeholder": "在这里粘贴TikTok视频链接",
+      "button_paste": "粘贴",
+      "button_download": "下载"
+    }
+  },
+  "about": {
+    "heading": "关于TikTok视频下载器",
+    "paragraph_1": "欢迎使用TikTok视频下载器，这是您下载无水印TikTok视频的终极解决方案。我们的服务快速、易于使用，并且完全免费。以高质量保存您喜欢的TikTok视频，离线享受或与朋友分享。",
+    "paragraph_2": "开始使用，只需将TikTok视频的URL粘贴到输入框中，然后点击'下载'。您的视频将在几秒钟内准备好保存。"
+  },
+  "features": {
+    "heading": "功能",
+    "feature_1": "以HD质量下载无水印TikTok视频。",
+    "feature_2": "完全免费且易于使用。",
+    "feature_3": "快速下载速度。",
+    "feature_4": "无需安装任何软件或注册账户。",
+    "feature_5": "兼容所有设备和浏览器。"
+  },
+  "instructions": {
+    "heading": "如何下载TikTok视频",
+    "step_1": "打开TikTok并找到您想要下载的视频。",
+    "step_2": "点击'分享'按钮并选择'复制链接'。",
+    "step_3": "将复制的链接粘贴到我们网站的输入框中。",
+    "step_4": "点击'下载'按钮，选择您喜欢的格式和质量。",
+    "step_5": "您的视频将在几秒钟内准备好保存。"
+  },
+  "footer": {
+    "copyright": "© 2024 TikTok视频下载器。保留所有权利。",
+    "privacy_policy": "隐私政策",
+    "terms_of_service": "服务条款"
+  }
+}

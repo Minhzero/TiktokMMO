@@ -1,0 +1,38 @@
+{
+  "title": "TikTok Video Downloader - Download TikTok Video's Zonder Watermerk",
+  "hero": {
+    "heading": "TikTok Video Downloader",
+    "subheading": "Download TikTok Video's Zonder Watermerk",
+    "form": {
+      "placeholder": "Plak hier de TikTok video link",
+      "button_paste": "Plakken",
+      "button_download": "Download"
+    }
+  },
+  "about": {
+    "heading": "Over TikTok Video Downloader",
+    "paragraph_1": "Welkom bij TikTok Video Downloader, de beste oplossing voor het downloaden van TikTok video's zonder watermerk. Onze service is snel, gebruiksvriendelijk en volledig gratis. Bewaar je favoriete TikTok video's in hoge kwaliteit en geniet ervan offline of deel ze met vrienden.",
+    "paragraph_2": "Om te beginnen, plak je gewoon de TikTok video URL in het invoerveld en klik je op 'Downloaden'. Je video is binnen enkele seconden klaar om op te slaan."
+  },
+  "features": {
+    "heading": "Kenmerken",
+    "feature_1": "Download TikTok video's in HD kwaliteit zonder watermerk.",
+    "feature_2": "Volledig gratis en eenvoudig te gebruiken.",
+    "feature_3": "Snelle downloadsnelheden.",
+    "feature_4": "Geen software installatie of accountregistratie vereist.",
+    "feature_5": "Compatibel met alle apparaten en browsers."
+  },
+  "instructions": {
+    "heading": "Hoe TikTok Video's Downloaden",
+    "step_1": "Open TikTok en vind de video die je wilt downloaden.",
+    "step_2": "Klik op de knop 'Delen' en kies 'Kopieer link'.",
+    "step_3": "Plak de gekopieerde link in het invoerveld op onze website.",
+    "step_4": "Klik op de knop 'Downloaden' en kies het gewenste formaat en de kwaliteit.",
+    "step_5": "Je video is binnen enkele seconden klaar om op te slaan."
+  },
+  "footer": {
+    "copyright": "© 2024 TikTok Video Downloader. Alle rechten voorbehouden.",
+    "privacy_policy": "Privacybeleid",
+    "terms_of_service": "Servicevoorwaarden"
+  }
+}

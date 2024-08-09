@@ -1,0 +1,38 @@
+{
+  "title": "TikTok Video İndirici - TikTok Videolarını Filigransız İndirin",
+  "hero": {
+    "heading": "TikTok Video İndirici",
+    "subheading": "TikTok Videolarını Filigransız İndirin",
+    "form": {
+      "placeholder": "TikTok video bağlantısını buraya yapıştırın",
+      "button_paste": "Yapıştır",
+      "button_download": "İndir"
+    }
+  },
+  "about": {
+    "heading": "TikTok Video İndirici Hakkında",
+    "paragraph_1": "TikTok Video İndirici'ye hoş geldiniz, TikTok videolarını filigransız indirmenin en iyi çözümüdür. Hizmetimiz hızlı, kullanımı kolay ve tamamen ücretsizdir. En sevdiğiniz TikTok videolarını yüksek kalitede kaydedin ve çevrimdışı olarak keyfini çıkarın veya arkadaşlarınızla paylaşın.",
+    "paragraph_2": "Başlamak için, TikTok video URL'sini giriş alanına yapıştırın ve 'İndir' butonuna tıklayın. Videonuz birkaç saniye içinde kaydedilmeye hazır olacaktır."
+  },
+  "features": {
+    "heading": "Özellikler",
+    "feature_1": "Filigransız olarak HD kalitesinde TikTok videoları indirin.",
+    "feature_2": "Tamamen ücretsiz ve kullanımı kolay.",
+    "feature_3": "Hızlı indirme hızları.",
+    "feature_4": "Yazılım yüklemesi veya hesap kaydı gerektirmez.",
+    "feature_5": "Tüm cihazlar ve tarayıcılarla uyumludur."
+  },
+  "instructions": {
+    "heading": "TikTok Videoları Nasıl İndirilir",
+    "step_1": "TikTok'u açın ve indirmek istediğiniz videoyu bulun.",
+    "step_2": "‘Paylaş’ butonuna tıklayın ve ‘Bağlantıyı Kopyala’ seçeneğini seçin.",
+    "step_3": "Kopyalanan bağlantıyı web sitemizdeki giriş alanına yapıştırın.",
+    "step_4": "‘İndir’ butonuna tıklayın ve tercih ettiğiniz formatı ve kalitesi seçin.",
+    "step_5": "Videonuz birkaç saniye içinde kaydedilmeye hazır olacaktır."
+  },
+  "footer": {
+    "copyright": "© 2024 TikTok Video İndirici. Tüm hakları saklıdır.",
+    "privacy_policy": "Gizlilik Politikası",
+    "terms_of_service": "Hizmet Şartları"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Pobieracz Wideo TikTok - Pobierz Wideo TikTok Bez Wodnego Znaku",
+  "hero": {
+    "heading": "Pobieracz Wideo TikTok",
+    "subheading": "Pobierz Wideo TikTok Bez Wodnego Znaku",
+    "form": {
+      "placeholder": "Wklej link do wideo TikTok tutaj",
+      "button_paste": "Wklej",
+      "button_download": "Pobierz"
+    }
+  },
+  "about": {
+    "heading": "O Pobieraczu Wideo TikTok",
+    "paragraph_1": "Witaj w Pobieraczu Wideo TikTok, najlepszym rozwiązaniu do pobierania wideo TikTok bez wodnego znaku. Nasza usługa jest szybka, łatwa w użyciu i całkowicie darmowa. Zapisz swoje ulubione wideo TikTok w wysokiej jakości i ciesz się nim offline lub podziel się nim z przyjaciółmi.",
+    "paragraph_2": "Aby rozpocząć, wystarczy wkleić URL wideo TikTok w pole wejściowe i kliknąć 'Pobierz'. Twoje wideo będzie gotowe do zapisania w kilka sekund."
+  },
+  "features": {
+    "heading": "Cechy",
+    "feature_1": "Pobieraj wideo TikTok w jakości HD bez wodnego znaku.",
+    "feature_2": "Całkowicie darmowe i łatwe w użyciu.",
+    "feature_3": "Szybkie prędkości pobierania.",
+    "feature_4": "Nie wymaga instalowania oprogramowania ani rejestrowania konta.",
+    "feature_5": "Kompatybilne ze wszystkimi urządzeniami i przeglądarkami."
+  },
+  "instructions": {
+    "heading": "Jak Pobierać Wideo TikTok",
+    "step_1": "Otwórz TikTok i znajdź wideo, które chcesz pobrać.",
+    "step_2": "Kliknij przycisk 'Udostępnij' i wybierz 'Kopiuj link'.",
+    "step_3": "Wklej skopiowany link w pole wejściowe na naszej stronie.",
+    "step_4": "Kliknij przycisk 'Pobierz' i wybierz preferowany format oraz jakość.",
+    "step_5": "Twoje wideo będzie gotowe do zapisania w kilka sekund."
+  },
+  "footer": {
+    "copyright": "© 2024 Pobieracz Wideo TikTok. Wszelkie prawa zastrzeżone.",
+    "privacy_policy": "Polityka Prywatności",
+    "terms_of_service": "Warunki Usługi"
+  }
+}

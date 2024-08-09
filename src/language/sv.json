@@ -1,0 +1,38 @@
+{
+  "title": "TikTok Video Nedladdare - Ladda Ner TikTok Videor Utan Vattenmärke",
+  "hero": {
+    "heading": "TikTok Video Nedladdare",
+    "subheading": "Ladda Ner TikTok Videor Utan Vattenmärke",
+    "form": {
+      "placeholder": "Klistra in TikTok video länken här",
+      "button_paste": "Klistra in",
+      "button_download": "Ladda Ner"
+    }
+  },
+  "about": {
+    "heading": "Om TikTok Video Nedladdare",
+    "paragraph_1": "Välkommen till TikTok Video Nedladdare, din ultimata lösning för att ladda ner TikTok-videor utan vattenmärken. Vår tjänst är snabb, enkel att använda och helt gratis. Spara dina favorit TikTok-videor i hög kvalitet och njut av dem offline eller dela med vänner.",
+    "paragraph_2": "För att komma igång, klistra bara in TikTok-video-URL:en i inmatningsfältet och klicka på 'Ladda Ner'. Din video kommer att vara redo att sparas på bara några sekunder."
+  },
+  "features": {
+    "heading": "Funktioner",
+    "feature_1": "Ladda ner TikTok-videor i HD-kvalitet utan vattenmärken.",
+    "feature_2": "Helt gratis och lätt att använda.",
+    "feature_3": "Snabba nedladdningshastigheter.",
+    "feature_4": "Ingen programvara behöver installeras eller konto registreras.",
+    "feature_5": "Kompatibel med alla enheter och webbläsare."
+  },
+  "instructions": {
+    "heading": "Hur Man Laddar Ner TikTok-Videor",
+    "step_1": "Öppna TikTok och hitta videon du vill ladda ner.",
+    "step_2": "Klicka på knappen 'Dela' och välj 'Kopiera länk'.",
+    "step_3": "Klistra in den kopierade länken i inmatningsfältet på vår webbplats.",
+    "step_4": "Klicka på knappen 'Ladda Ner' och välj det önskade formatet och kvaliteten.",
+    "step_5": "Din video kommer att vara redo att sparas på bara några sekunder."
+  },
+  "footer": {
+    "copyright": "© 2024 TikTok Video Nedladdare. Alla rättigheter förbehållna.",
+    "privacy_policy": "Sekretesspolicy",
+    "terms_of_service": "Användarvillkor"
+  }
+}

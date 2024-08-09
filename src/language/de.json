@@ -1,0 +1,38 @@
+{
+  "title": "TikTok Video Downloader - Laden Sie TikTok Videos Ohne Wasserzeichen Herunter",
+  "hero": {
+    "heading": "TikTok Video Downloader",
+    "subheading": "Laden Sie TikTok Videos Ohne Wasserzeichen Herunter",
+    "form": {
+      "placeholder": "Fügen Sie hier den TikTok-Video-Link ein",
+      "button_paste": "Einfügen",
+      "button_download": "Herunterladen"
+    }
+  },
+  "about": {
+    "heading": "Über den TikTok Video Downloader",
+    "paragraph_1": "Willkommen beim TikTok Video Downloader, Ihrer ultimativen Lösung zum Herunterladen von TikTok-Videos ohne Wasserzeichen. Unser Service ist schnell, einfach zu bedienen und völlig kostenlos. Speichern Sie Ihre Lieblings-TikTok-Videos in hoher Qualität und genießen Sie sie offline oder teilen Sie sie mit Freunden.",
+    "paragraph_2": "Um zu beginnen, fügen Sie einfach die TikTok-Video-URL in das Eingabefeld ein und klicken Sie auf 'Herunterladen'. Ihr Video wird in nur wenigen Sekunden zum Speichern bereit sein."
+  },
+  "features": {
+    "heading": "Funktionen",
+    "feature_1": "Laden Sie TikTok-Videos in HD-Qualität ohne Wasserzeichen herunter.",
+    "feature_2": "Völlig kostenlos und einfach zu bedienen.",
+    "feature_3": "Schnelle Download-Geschwindigkeiten.",
+    "feature_4": "Keine Notwendigkeit, Software zu installieren oder ein Konto zu registrieren.",
+    "feature_5": "Kompatibel mit allen Geräten und Browsern."
+  },
+  "instructions": {
+    "heading": "So Laden Sie TikTok-Videos Herunter",
+    "step_1": "Öffnen Sie TikTok und finden Sie das Video, das Sie herunterladen möchten.",
+    "step_2": "Klicken Sie auf die Schaltfläche 'Teilen' und wählen Sie 'Link kopieren'.",
+    "step_3": "Fügen Sie den kopierten Link in das Eingabefeld auf unserer Website ein.",
+    "step_4": "Klicken Sie auf die Schaltfläche 'Herunterladen' und wählen Sie das gewünschte Format und die Qualität aus.",
+    "step_5": "Ihr Video wird in nur wenigen Sekunden zum Speichern bereit sein."
+  },
+  "footer": {
+    "copyright": "© 2024 TikTok Video Downloader. Alle Rechte vorbehalten.",
+    "privacy_policy": "Datenschutzrichtlinie",
+    "terms_of_service": "Nutzungsbedingungen"
+  }
+}

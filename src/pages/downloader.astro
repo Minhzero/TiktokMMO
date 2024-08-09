@@ -1,0 +1,21 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+// Lấy dữ liệu từ URL
+const params = Astro.url.searchParams;
+const title = decodeURIComponent(params.get('title'));
+const hdplay = decodeURIComponent(params.get('hdplay'));
+---
+
+<Layout title="Video Downloaded">
+    <main class="container my-5">
+        <h1 class="text-center">Video Downloaded</h1>
+        <div class="text-center">
+            <h2>{title}</h2>
+            <video controls class="mt-3">
+                <source src={hdplay} type="video/mp4" />
+                Your browser does not support the video tag.
+            </video>
+        </div>
+    </main>
+</Layout>

@@ -1,0 +1,38 @@
+{
+  "title": "Téléchargeur de Vidéos TikTok - Téléchargez des Vidéos TikTok Sans Filigrane",
+  "hero": {
+    "heading": "Téléchargeur de Vidéos TikTok",
+    "subheading": "Téléchargez des Vidéos TikTok Sans Filigrane",
+    "form": {
+      "placeholder": "Collez le lien de la vidéo TikTok ici",
+      "button_paste": "Coller",
+      "button_download": "Télécharger"
+    }
+  },
+  "about": {
+    "heading": "À Propos du Téléchargeur de Vidéos TikTok",
+    "paragraph_1": "Bienvenue sur le Téléchargeur de Vidéos TikTok, votre solution ultime pour télécharger des vidéos TikTok sans filigrane. Notre service est rapide, facile à utiliser et entièrement gratuit. Enregistrez vos vidéos TikTok préférées en haute qualité et profitez-en hors ligne ou partagez-les avec vos amis.",
+    "paragraph_2": "Pour commencer, il vous suffit de coller l'URL de la vidéo TikTok dans le champ de saisie et de cliquer sur 'Télécharger'. Votre vidéo sera prête à être enregistrée en quelques secondes."
+  },
+  "features": {
+    "heading": "Fonctionnalités",
+    "feature_1": "Téléchargez des vidéos TikTok en qualité HD sans filigrane.",
+    "feature_2": "Entièrement gratuit et facile à utiliser.",
+    "feature_3": "Vitesses de téléchargement rapides.",
+    "feature_4": "Pas besoin d'installer de logiciel ou de créer un compte.",
+    "feature_5": "Compatible avec tous les appareils et navigateurs."
+  },
+  "instructions": {
+    "heading": "Comment Télécharger des Vidéos TikTok",
+    "step_1": "Ouvrez TikTok et trouvez la vidéo que vous souhaitez télécharger.",
+    "step_2": "Cliquez sur le bouton 'Partager' et sélectionnez 'Copier le lien'.",
+    "step_3": "Collez le lien copié dans le champ de saisie sur notre site.",
+    "step_4": "Cliquez sur le bouton 'Télécharger' et choisissez le format et la qualité souhaités.",
+    "step_5": "Votre vidéo sera prête à être enregistrée en quelques secondes."
+  },
+  "footer": {
+    "copyright": "© 2024 Téléchargeur de Vidéos TikTok. Tous droits réservés.",
+    "privacy_policy": "Politique de Confidentialité",
+    "terms_of_service": "Conditions d'Utilisation"
+  }
+}
